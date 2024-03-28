@@ -13,7 +13,7 @@
 ## Backend
 
 
-- <a href="https://nodejs.org/en/"> NodeJS</a><img align="center" alt="NodeJS" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+- <a href="https://nodejs.org/en/">NodeJS</a><img align="center" alt="NodeJS" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 - <a href="https://expressjs.com/">Express</a><img align="center" alt="Express" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
 
 ## Frontend
@@ -90,6 +90,5 @@ $ npm start
 
 <br>
 
-### Credits to
-### Manual do Dev
-- <a href="https://github.com/manualdodev"> GitHub
+#### Credits to
+#### Manual do Dev
