@@ -3,7 +3,7 @@
 ## The project consists of a complete Full Stack application with the goal of assisting in the management of activities and tasks.
 
 <br>
- <img align="center" src="frontend/images/img/1.jpeg" />
+ <img align="center" src="frontend/images/1.jpeg" />
 
 <br>
 <br>
