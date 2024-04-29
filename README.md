@@ -37,7 +37,7 @@
 ```bash
 #Command to clone the repository
 
-$ git clone https://github.com/manualdodev/todolist-fullstack.git
+$ git clone https://github.com/srbaliardo/todolist-fullstack.git
 ```
 
 ### After cloning the repository, it is necessary to create a MySQL database along with the necessary columns.
@@ -45,7 +45,7 @@ $ git clone https://github.com/manualdodev/todolist-fullstack.git
 ```bash
 #Command to create a database in the MySQL terminal:
 
-$ CREATE DATABASE database_name;
+$ CREATE DATABASE database_name
 ```
 
 ### Next, it is necessary to create the "tasks" table that will be used by the application.
